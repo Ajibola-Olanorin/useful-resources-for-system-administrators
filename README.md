@@ -1,2 +1,2 @@
 # useful-resources-for-system-administrators
-Curated list of resources.
+The repo is being updated. More resources will be added to the list.
