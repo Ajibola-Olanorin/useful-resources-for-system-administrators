@@ -6,5 +6,4 @@
 * [TutoriaLinux](https://www.youtube.com/channel/UCvA_wgsX6eFAOXI8Rbg_WiQ)
 * [Don Jones](https://www.youtube.com/c/DonJonesConTech)
 * [Hak5](https://www.youtube.com/user/Hak5Darren)
-* [Hak5](https://www.youtube.com/user/Hak5Darren)
 * [Druaga1](https://www.youtube.com/user/Druaga1)
